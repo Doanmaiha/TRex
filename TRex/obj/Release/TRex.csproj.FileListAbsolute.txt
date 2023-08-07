@@ -1,0 +1,11 @@
+D:\Hà\TRex\TRex\bin\Release\TRex.exe.config
+D:\Hà\TRex\TRex\bin\Release\TRex.exe
+D:\Hà\TRex\TRex\bin\Release\TRex.pdb
+D:\Hà\TRex\TRex\obj\Release\TRex.csproj.AssemblyReference.cache
+D:\Hà\TRex\TRex\obj\Release\TRex.csproj.SuggestedBindingRedirects.cache
+D:\Hà\TRex\TRex\obj\Release\TRex.Form1.resources
+D:\Hà\TRex\TRex\obj\Release\TRex.Properties.Resources.resources
+D:\Hà\TRex\TRex\obj\Release\TRex.csproj.GenerateResource.cache
+D:\Hà\TRex\TRex\obj\Release\TRex.csproj.CoreCompileInputs.cache
+D:\Hà\TRex\TRex\obj\Release\TRex.exe
+D:\Hà\TRex\TRex\obj\Release\TRex.pdb

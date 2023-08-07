@@ -1,0 +1,11 @@
+D:\Hà\TRex\TRex\obj\Debug\TRex.csproj.AssemblyReference.cache
+D:\Hà\TRex\TRex\obj\Debug\TRex.csproj.SuggestedBindingRedirects.cache
+D:\Hà\TRex\TRex\obj\Debug\TRex.Properties.Resources.resources
+D:\Hà\TRex\TRex\obj\Debug\TRex.csproj.GenerateResource.cache
+D:\Hà\TRex\TRex\obj\Debug\TRex.csproj.CoreCompileInputs.cache
+D:\Hà\TRex\TRex\bin\Debug\TRex.exe.config
+D:\Hà\TRex\TRex\bin\Debug\TRex.exe
+D:\Hà\TRex\TRex\bin\Debug\TRex.pdb
+D:\Hà\TRex\TRex\obj\Debug\TRex.Form1.resources
+D:\Hà\TRex\TRex\obj\Debug\TRex.exe
+D:\Hà\TRex\TRex\obj\Debug\TRex.pdb
